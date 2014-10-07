@@ -1,0 +1,16 @@
+{
+	"name": "negotiar",
+	"description": "protocol negotiation",
+	"version": "0.0.0",
+	"author": "CoderPuppy",
+
+	"dependencies": {
+		"pull-stream": "^2.24.0",
+		"pull-pushable": "^1.1.4"
+	},
+
+	"devDependencies": {
+		"stream-to-pull-stream": "^1.4.1",
+		"dateformat": "^1.0.7-1.2.3"
+	}
+}
